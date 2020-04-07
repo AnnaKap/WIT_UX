@@ -1,3 +1,4 @@
+/* nav bar with item at the end */
 .nav-container {
   display:flex;
   margin: 0 2%;
@@ -10,9 +11,10 @@
   text-align: end;
 }
 
+/* equally spaced out nav bar */
 .nav-container2 {
-  max-width: 50%;
-  display:flex;
+  max-width: 75%;
+  display: flex;
   margin: 0 2%;
 }
 .nav-container2 div {
