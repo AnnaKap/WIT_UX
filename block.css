@@ -1,0 +1,15 @@
+h3 {
+  width: 20%;
+  border: solid 1px blue;
+  /* uncomment this display property 
+  to override the default display property 
+  of the h3 element */
+  /* display: inline; */
+}
+span {
+  border: solid 1px red;
+}
+.block {
+  /* uncomment this display property to override the default display property of the element with class name of block */
+  /* display: block; */
+}
