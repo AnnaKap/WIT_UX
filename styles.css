@@ -1,0 +1,20 @@
+.nav-container {
+  display:flex;
+  margin: 0 2%;
+}
+.nav-container div {
+  flex: .5 1 auto;
+}
+#blog {
+  flex: 3;
+  text-align: end;
+}
+
+.nav-container2 {
+  max-width: 50%;
+  display:flex;
+  margin: 0 2%;
+}
+.nav-container2 div {
+  flex: 1 1 auto;
+}
