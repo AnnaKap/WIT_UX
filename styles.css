@@ -20,3 +20,20 @@
 .nav-container2 div {
   flex: 1 1 auto;
 }
+
+.nav-container3 {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 2%;
+}
+.option:hover {
+  background-color: red;
+  color: white;
+}
+#about:not(:hover) > .collapse {
+  display: none;
+}
+.collapse div {
+  padding-left: 10px;
+}
