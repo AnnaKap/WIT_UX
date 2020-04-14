@@ -3,13 +3,21 @@ body {
 }
 .container {
   display: flex;
+  border: solid 1px blue;
   /* flex-direction: row | row-reverse | column | column-reverse;
  */
-  flex-direction: column;
 }
 .child {
   width: 200px;
   height: 50px;
   border: solid 3px red;
   margin: 10px;
+}
+
+#child1 {
+
+}
+
+#child2 {
+
 }
